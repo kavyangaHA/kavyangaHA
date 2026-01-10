@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Kavyanga
 
-<!--
-**kavyangaHA/kavyangaHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Undergraduate  
+🏫 University of Moratuwa  
+💻 Passionate about Software Development, Problem Solving, and Learning New Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🎯 Interested in **Software Engineering, AI/ML, and Web Development**
+- 📚 Currently learning **C++, Git/GitHub, Data Structures**
+- 🤝 Enjoy working on **group projects and hackathons**
+- 🚀 Always excited to improve my skills and build meaningful projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C++
+- Python
+- Java
+- JavaScript
+
+### Tools & Technologies
+- Git & GitHub
+- Linux (Beginner)
+- Figma (UI Design)
+- VS Code
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+🔁 Replace `YOUR_USERNAME` with your GitHub username
+
+---
+
+
+## ✨ Fun Fact
+> Learning something new every day 🚀
