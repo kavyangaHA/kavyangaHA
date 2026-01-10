@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Kavyanga
 
 🎓 Computer Science & Engineering Undergraduate  
 🏫 University of Moratuwa  
@@ -34,34 +34,12 @@
 
 ---
 
-## 📌 Projects
-- 💊 **Pharmacy / Pill Finder Web App**  
-  Location-based web app to find nearby pharmacies with available medicines
-
-- 🌧️ **Rain Data Collection App**  
-  Mobile app for collecting and analyzing rainfall data
-
-- 🧠 **BioFusion Hackathon Project**  
-  AI/ML-based healthcare solution
-
-- ⚙️ **Nano Processor Project**  
-  Designed and simulated a nano processor using VHDL
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princess_Cloud&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princess_Cloud&layout=compact&theme=dark)
-
-
----
+-
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🌐 Portfolio: (optional)
+- 📧 Email: kavyangahathurusinghe1234@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/kavyanga-hathurusinghe-809bb7266
+- 🌐 Portfolio: 
 
 ---
 
