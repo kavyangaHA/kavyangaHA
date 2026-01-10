@@ -1,4 +1,4 @@
-# Hi! 👋, I'm Kavyanga
+# Hi!, I'm Kavyanga <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 🎓 Computer Science & Engineering Undergraduate  
 🏫 University of Moratuwa  
