@@ -1,10 +1,10 @@
-# Hi 👋 I'm Kavyanga
+# Hi! 👋, I'm Kavyanga
 
 🎓 Computer Science & Engineering Undergraduate  
 🏫 University of Moratuwa  
 💻 Passionate about Software Development, Problem Solving, and Learning New Technologies  
 
----
+
 
 ## 🌱 About Me
 - 🎯 Interested in **Software Engineering, AI/ML, and Web Development**
@@ -12,7 +12,7 @@
 - 🤝 Enjoy working on **group projects and hackathons**
 - 🚀 Always excited to improve my skills and build meaningful projects
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -32,16 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
 
----
 
--
+
+
 
 ## 📫 Connect With Me
 - 📧 Email: kavyangahathurusinghe1234@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kavyanga-hathurusinghe-809bb7266
 - 🌐 Portfolio: 
 
----
+
 
 ## ✨ Fun Fact
 > Learning something new every day 🚀
