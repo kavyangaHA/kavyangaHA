@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kavyanga
+# Hi 👋 I'm [Your Name]
 
 🎓 Computer Science & Engineering Undergraduate  
 🏫 University of Moratuwa  
@@ -16,31 +16,54 @@
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- C++
-- Python
-- Java
-- JavaScript
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</p>
 
-### Tools & Technologies
-- Git & GitHub
-- Linux (Beginner)
-- Figma (UI Design)
-- VS Code
+### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
+## 📌 Projects
+- 💊 **Pharmacy / Pill Finder Web App**  
+  Location-based web app to find nearby pharmacies with available medicines
+
+- 🌧️ **Rain Data Collection App**  
+  Mobile app for collecting and analyzing rainfall data
+
+- 🧠 **BioFusion Hackathon Project**  
+  AI/ML-based healthcare solution
+
+- ⚙️ **Nano Processor Project**  
+  Designed and simulated a nano processor using VHDL
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyangaHA&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyangaHA&layout=compact&theme=dark)
 
-🔁 Replace `YOUR_USERNAME` with your GitHub username
 
 ---
 
+## 📫 Connect With Me
+- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/yourname
+- 🌐 Portfolio: (optional)
+
+---
 
 ## ✨ Fun Fact
 > Learning something new every day 🚀
