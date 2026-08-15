@@ -10,9 +10,9 @@
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-EC4899?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-A21CAF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kavyanga-hathurusinghe-809bb7266/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@kavyangahathurusinghe1234"><img src="https://img.shields.io/badge/Medium-EC4899?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://kavyanga.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A21CAF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
